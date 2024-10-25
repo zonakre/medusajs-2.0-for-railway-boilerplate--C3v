@@ -10,7 +10,6 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-            Welcome to Fanboxes.com
           </Heading>
         </span>
         <img src="https://cdn.animaapp.com/projects/67169af668c23732491fc4c7/releases/671b5d9fe5da8649df83b383/img/mask-group-7.png" anima-src="https://cdn.animaapp.com/projects/67169af668c23732491fc4c7/releases/671b5d9fe5da8649df83b383/img/mask-group-7.png" alt="Mask group"/>
