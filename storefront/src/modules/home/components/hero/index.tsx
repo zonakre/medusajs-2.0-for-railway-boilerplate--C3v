@@ -10,7 +10,7 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-            Welcome to Fanboxes.com, the ultimate mystery box experience with exciting prize odds and exclusive rewards! Discover a wide range of mystery boxes, each packed with unique items and thrilling surprises. 
+            Welcome to Fanboxes.com, the ultimate mystery box experience with exciting prize odds and exclusive rewards!
           </Heading>
           <Heading
             level="h2"
