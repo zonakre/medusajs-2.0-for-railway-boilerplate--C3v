@@ -12,7 +12,7 @@ const Hero = () => {
           >
             Welcome to Fanboxes.com
           </Heading>
-          <img class="mask-group-AWxaQv mask-group" data-id="1:8378" src="https://cdn.animaapp.com/projects/67169af668c23732491fc4c7/releases/671b5d9fe5da8649df83b383/img/mask-group-7.png" anima-src="https://cdn.animaapp.com/projects/67169af668c23732491fc4c7/releases/671b5d9fe5da8649df83b383/img/mask-group-7.png" alt="Mask group"></img>
+          <img class="mask-group-AWxaQv mask-group" data-id="1:8378" src="https://cdn.animaapp.com/projects/67169af668c23732491fc4c7/releases/671b5d9fe5da8649df83b383/img/mask-group-7.png" anima-src="https://cdn.animaapp.com/projects/67169af668c23732491fc4c7/releases/671b5d9fe5da8649df83b383/img/mask-group-7.png" alt="Mask group"/>
         </span>
       </div>
     </div>
